@@ -2,10 +2,6 @@
 
 Convert 3rd party PDF invoices to XERO with PII protection.
 
-## Motivation
-
-Processing third-party invoices manually is time-consuming and error-prone. This project streamlines the invoicing workflow by automating the extraction of invoice data from PDFs, protecting Personally Identifiable Information (PII) during processing, and seamlessly creating invoices in Xero accounting software.
-
 <p align="center">
   <img src="https://github.com/TvlanS/PDF-to-XERO/blob/f7800ecfe23df1959b71d1a1d3dfe3c135961083/Sample/Sample_PDF_image.png?raw=true" width="600" alt="Sample PDF">
   <br>
@@ -17,6 +13,10 @@ Processing third-party invoices manually is time-consuming and error-prone. This
   <br>
   <em>Sample Xero Output</em>
 </p>
+
+## Motivation
+
+Processing third-party invoices manually is time-consuming and error-prone. This project streamlines the invoicing workflow by automating the extraction of invoice data from PDFs, protecting Personally Identifiable Information (PII) during processing, and seamlessly creating invoices in Xero accounting software.
 
 ## Key Features
 
