@@ -1,0 +1,8 @@
+flask>=2.3.0
+flair>=0.13.0
+torch>=2.0.0
+pypdf>=4.0.0
+openai>=1.0.0
+requests>=2.31.0
+pyyaml>=6.0
+pyprojroot>=0.3.0
